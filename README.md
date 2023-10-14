@@ -1,4 +1,4 @@
-# **GDSC University Of Yaounde 1 Socials**
+# **GDSC University Of Yaounde 1 - Blog-Posts**
 
 +-------------------------------+<br>
 &ThinSpace;| &ThickSpace; Version: <kbd>[<img title="Française" alt="Française" src="https://th.bing.com/th/id/OIP.xryrkEIZjlg6rYj1BBT1LQAAAA?pid=ImgDet&rs=1" width="22">](./README.fr.md)</kbd>[*Français (Fr)*](./README.fr.md) &ThickSpace; |<br>
@@ -7,6 +7,8 @@
 This is a repository containing the social links of the community members of the Google Developer Student Clubs of the University Of Yaounde 1.
 
 # 🎃 HacktoberFest 2023 🎃
+
+![Hacktoberfest2023](https://external-preview.redd.it/hacktoberfest-2023-coming-soon-celebrating-ten-years-of-v0-7iAxY9XdcB1RlomtBWqvtgsafP-TAHZ3h0Goveo_Zjc.jpg?auto=webp&s=a7255699d6e0a0a1a7d2cdc5f10f35cf836861e5)
 
 If you came here for Hacktoberfest, you're in the right place 🦇️:
 
