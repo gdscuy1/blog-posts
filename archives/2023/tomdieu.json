@@ -1,0 +1,29 @@
+{
+    "posts": [
+        {
+            
+            "title": "Drizzle ORM, SQLite and Nuxt JS - Getting Started",
+            "description":"This is a companion post to support a YouTube video tutorial that will walk you through integrating Drizzle ORM into a Nuxt JS project and creating the server API routes for CRUD actions on a user object. The routes are tested using Thunder Client, a lightweight REST API Client Extension for Visual Studio Code; similar to Postman. Drizzle is an Object Relational Mapper (ORM) for SQL databases. It is a lightweight and easy-to-use ORM that can map data between a relational database and an object-oriented programming language.Better SQLite is a wrapper around the SQLite database engine that provides a number of improvements over the standard SQLite API. One of those benefits is type safety, Better SQLite uses TypeScript to provide type safety for queries, which can help to prevent errors.",
+            "url":"https://dev.to/aaronksaunders/drizzle-orm-sqlite-and-nuxt-js-getting-started-374m",
+            "author":"Aaron K Saunders"
+        },
+        {
+            "title":"How to Run Concurrent Applications With Docker Compose ",
+            "description":"In modern software development, deploying backend and frontend components simultaneously is necessary for seamless application delivery. Over the years, running both backend and frontend software involved using different services which can sometimes reduce software productivity and maintenance.In this tutorial, you will learn how to run concurrent backed and frontend applications using Docker Compose. By reading this tutorial, I assume you have Docker installed on your computer and have basic knowledge of Docker",
+            "url":"https://dev.to/popoolatopzy/how-to-run-concurrent-applications-with-docker-compose-3dbd",
+            "author":"popoola Temitope"
+        },
+        {
+            "title":"10 Best Tools and Practices for Boosting Code Quality in Node.js ",
+            "description":"As a developer, you understand that writing clean and efficient code is essential for maintaining and scaling your Node.js applications. Code quality not only affects the performance and stability of your application but also makes it easier for your team to collaborate.",
+            "url":"https://dev.to/smitthakkar/10-best-tools-and-practices-for-boosting-code-quality-in-nodejs-4kde",
+            "author":"Smit Thakkar"
+        },
+        {
+            "title":"React's Concurrent Mode and its Benefits ",
+            "description":"Concurrent Mode is an advanced set of features in React that allows you to interrupt the rendering process, thus enabling multiple tasks to be processed nearly at the same time. This doesn’t mean React suddenly became multi-threaded or parallel; it means React can now better juggle tasks on a single thread, providing an enhanced user experience.",
+            "url":"https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3",
+            "author":"Sidra Maqbool"
+        }
+    ]
+}
