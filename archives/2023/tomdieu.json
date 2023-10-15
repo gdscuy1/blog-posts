@@ -1,7 +1,6 @@
 {
     "posts": [
         {
-            
             "title": "Drizzle ORM, SQLite and Nuxt JS - Getting Started",
             "description":"This is a companion post to support a YouTube video tutorial that will walk you through integrating Drizzle ORM into a Nuxt JS project and creating the server API routes for CRUD actions on a user object. The routes are tested using Thunder Client, a lightweight REST API Client Extension for Visual Studio Code; similar to Postman. Drizzle is an Object Relational Mapper (ORM) for SQL databases. It is a lightweight and easy-to-use ORM that can map data between a relational database and an object-oriented programming language.Better SQLite is a wrapper around the SQLite database engine that provides a number of improvements over the standard SQLite API. One of those benefits is type safety, Better SQLite uses TypeScript to provide type safety for queries, which can help to prevent errors.",
             "url":"https://dev.to/aaronksaunders/drizzle-orm-sqlite-and-nuxt-js-getting-started-374m",
